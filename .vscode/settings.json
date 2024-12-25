@@ -41,13 +41,6 @@
   "editor.minimap.enabled": false,
   "workbench.tree.indent": 12,
   "workbench.tree.renderIndentGuides": "none",
-  // OPTIONAL: Hides the sidebar completely.
-  // If you choose to enable this, you can still
-  // access it using keyboard shortcuts instead.
-  // Ex: Control Shift E for Explorer
-  // Control Shift G for Version Control
-  // Control Shift X for extensions, etc.
-  "workbench.activityBar.visible": true,
   // Removes the close tab button. Use Control + W instead.
   "workbench.editor.tabCloseButton": "off",
   // Removes the useless "breadcrumbs" tree below our tabs
@@ -65,6 +58,7 @@
   "editor.suggestLineHeight": 0,
   "terminal.integrated.lineHeight": 0,
   "workbench.editor.pinnedTabSizing": "normal",
-  "workbench.editor.showTabs": true,
+  "workbench.editor.showTabs": "multiple",
   "explorer.openEditors.minVisible": 3,
+  "workbench.editor.tabActionCloseVisibility": false,
 }
